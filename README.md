@@ -1,4 +1,4 @@
-***👋 Welcome to my GitHub portfolio! I'm Sonu Kumar, a software developer with a passion for crafting efficient and elegant solutions. ***
+*👋 Welcome to my GitHub portfolio! I'm Sonu Kumar, a software developer with a passion for crafting efficient and elegant solutions.*
 
 ## 💼 My Expertise:
 - Full Stack Web Development
