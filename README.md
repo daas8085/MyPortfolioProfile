@@ -3,13 +3,13 @@
 ## 💼 My Expertise:
 **- Full Stack Web Development**
 
-**_- JavaScript (React, Node.js)**
+**-_- JavaScript (React, Node.js)**
 
-**_- Python (Django)**
+**-_- Python (Django)**
 
-**_- Database Design (SQL, NoSQL)**
+**-_- Database Design (SQL, NoSQL)**
 
-**_- DevOps and CI/CD**
+**-_- DevOps and CI/CD**
 
 
 ## 🚀 What You'll Find Here:
